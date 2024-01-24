@@ -1,9 +1,16 @@
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+//       Class: Mobile Application Development
+//        Name: Dat Tran
+//        Date: Jan 24, 2024
+//    Homework: Week 3
+//      Points: 100 pts
+//         Due: Feb 1, 2024
 
-//Estimate completion time: 4 Hours
-//Actual completion time: 5 Hours
+//    Estimate Completion time: 4 Hours
+//     Actual Completion time: 5 Hours
+
 const maxWordPairHistory = 20;
 
 void main() {
